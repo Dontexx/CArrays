@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CArrays\bin\Debug\net8.0\CArrays.exe
+C:\Users\User\Desktop\CArrays\bin\Debug\net8.0\CArrays.deps.json
+C:\Users\User\Desktop\CArrays\bin\Debug\net8.0\CArrays.runtimeconfig.json
+C:\Users\User\Desktop\CArrays\bin\Debug\net8.0\CArrays.dll
+C:\Users\User\Desktop\CArrays\bin\Debug\net8.0\CArrays.pdb
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.AssemblyInfo.cs
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.dll
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\refint\CArrays.dll
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.pdb
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.genruntimeconfig.cache
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\ref\CArrays.dll
