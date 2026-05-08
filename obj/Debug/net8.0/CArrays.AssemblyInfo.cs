@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3d009814977e49ee5aa75aa57246bbd656ab5ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("CArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

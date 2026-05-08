@@ -12,3 +12,4 @@ C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\refint\CArrays.dll
 C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.pdb
 C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.genruntimeconfig.cache
 C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\ref\CArrays.dll
+C:\Users\User\Desktop\CArrays\obj\Debug\net8.0\CArrays.sourcelink.json
